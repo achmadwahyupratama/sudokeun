@@ -1,0 +1,7 @@
+export const SET_INITBOARD = 'SET_INITBOARD'
+export const SET_ELEMENT = 'SET_ELEMENT'
+export const SET_VALIDATED = 'SET_VALIDATED'
+export const SET_USER = 'SET_USER'
+export const SET_LEVEL = 'SET_LEVEL'
+export const SET_SOLVED = 'SET_SOLVED'
+export const RESET_VALIDATED = 'RESET_VALIDATED'
